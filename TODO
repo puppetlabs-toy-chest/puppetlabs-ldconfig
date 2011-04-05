@@ -1,0 +1,10 @@
+* ensure consistency with style guide
+
+* add documentation
+  * README
+  * correct code comments
+
+* create metadata
+  * publish on forge
+
+* Check that it works with other systems that utilize ldconfig
